@@ -8,36 +8,36 @@ Further information on the derivation of the original data is available with the
 
 The variables in `tidy.txt` are the mean of the following variables across study subjects and activities:
 
-*tBodyAcc: Body acceleration signal
+* tBodyAcc: Body acceleration signal
 
-*tGravityAcc: Gravity acceleration signal
+* tGravityAcc: Gravity acceleration signal
 
-*tBodyAccJerk: Body linear acceleration
+* tBodyAccJerk: Body linear acceleration
 
-*tBodyGyro: Body velocity signal
+* tBodyGyro: Body velocity signal
 
-*tBodyGyroJerk: Body angular velocity
+* tBodyGyroJerk: Body angular velocity
 
-*tBodyAccMag: Magnitude of the body acceleration signal
+* tBodyAccMag: Magnitude of the body acceleration signal
 
-*tGravityAccMag: Magnitude of the gravity acceleration signal
+* tGravityAccMag: Magnitude of the gravity acceleration signal
 
-*tBodyAccJerkMag: Magnitude of body linear acceleration
+* tBodyAccJerkMag: Magnitude of body linear acceleration
 
-*tBodyGyroMag: Magnitude of body velocity signal
+* tBodyGyroMag: Magnitude of body velocity signal
 
-*tBodyGyroJerkMag: Magnitude of body angular velocity
+* tBodyGyroJerkMag: Magnitude of body angular velocity
 
-*fBodyAcc: Fast Fourier Transform of body acceleration signal
+* fBodyAcc: Fast Fourier Transform of body acceleration signal
 
-*fBodyAccJerk: Fast Fourier Transform of body linear acceleration
+* fBodyAccJerk: Fast Fourier Transform of body linear acceleration
 
-*fBodyGyro: Fast Fourier Transform of body velocity signal
+* fBodyGyro: Fast Fourier Transform of body velocity signal
 
-*fBodyAccJerkMag: Fast Fourier Transform of magnitude of body linear acceleration
+* fBodyAccJerkMag: Fast Fourier Transform of magnitude of body linear acceleration
 
-*fBodyGyroMag: Fast Fourier Transform of magnitude of body velocity signal
+* fBodyGyroMag: Fast Fourier Transform of magnitude of body velocity signal
 
-*fBodyGyroJerkMag: Fast Fourier Transform of magnitude of body angular velocity
+* fBodyGyroJerkMag: Fast Fourier Transform of magnitude of body angular velocity
 
 An X, Y or Z suffix on the variables denotes 3-axial signals in the X, Y and Z directions. The measurements also contain the suffixes Mean (Mean value) and Std (Standard deviation), being the mean and standard deviation of the original measurements. It is these mean and standard deviation measurements of which the mean has been taken to produce the `tidy.txt` file.
